@@ -32,6 +32,8 @@ sudo make modules_install
 sudo make install
 ```
 
+**Note:** I will submit a kernel patch as time permits so that regular users can skip this step.
+
 # Patch installation
 
 ### 1. Build the *ssdt-csc3551.dsl* file
