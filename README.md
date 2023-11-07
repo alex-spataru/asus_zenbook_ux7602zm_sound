@@ -32,7 +32,7 @@ sudo make modules_install
 sudo make install
 ```
 
-**Note:** I will submit a kernel patch as time permits so that regular users can skip this step.
+**Note:** I have [submited](https://lore.kernel.org/all/87wmutr6z3.wl-tiwai@suse.de/) a kernel patch with these changes, it might be available for version 6.7.
 
 # Patch installation
 
