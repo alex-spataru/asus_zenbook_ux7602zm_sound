@@ -4,6 +4,10 @@
 
 <p align="center">SSDT Patch to fix speakers sound on Asus Zenbook UX7602ZM<br/></p>
 
+# ⚠️ Important update
+
+Cirrus just posted a series of patches that (should) fix audio amplifier issues on recent Asus laptops ([https://lore.kernel.org/all/20231218151221.388745-1-sbinding@opensource.cirrus.com/](https://lore.kernel.org/all/20231218151221.388745-1-sbinding@opensource.cirrus.com/)). If you have used this repository, please ensure that you undo the changes before updating to the (eventual) kernel build that incorporates these patches. More info in [this](https://gist.github.com/lamperez/862763881c0e1c812392b5574727f6ff?permalink_comment_id=4799469#gistcomment-4799469) thread comment.
+
 # Pre Requirements
 
 ### Kernel patch
